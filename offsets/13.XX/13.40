@@ -9,6 +9,8 @@ const OFFSET_wk___stack_chk_guard_import    = 0x0334e198;
 
 const OFFSET_lk___stack_chk_guard           = 0x000751D0;
 const OFFSET_lk__thread_list                = 0x00075258;
+//const OFFSET_lk__thread_list                = 0x0006C218;
+//if the main OFFSET_lk__thread_list didnt work !!! 
 const OFFSET_lk_worker_wait_return          = 0x0001FD01;
 const OFFSET_lk_pthread_create_name_np      = 0x00021890;
 const OFFSET_lk_pthread_join                = 0x000229A0;
